@@ -1,3 +1,2 @@
 # first-steps
-This is my first repository
-author-Shreeja
+This is my first repository.
